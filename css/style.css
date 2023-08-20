@@ -273,10 +273,17 @@ box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px
   color: var(--primaryColor);
   margin-bottom: 9px;
 }
- 
+
+#aboutus span{
+
+}
+
+#aboutus span p {
+  margin-top: 33px;
+ }
 
 
-.about_cmt .p1{
+#aboutus .about_cmt .p1{
   margin-top: 30px;
   width: 570px;
   font-family: var(--thirdFont);
@@ -284,12 +291,14 @@ box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px
   color: var(--primaryColor);
 
 }
+.about_cmt .button{
+  margin-top: 33px;
+}
 
 .about_cmt .button:hover{
   background-color: var(--secondaryColor);
   color:var(--primaryColor);
 }
-
 
 
 
